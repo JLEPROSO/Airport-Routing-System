@@ -1,0 +1,14 @@
+Ezeiza,El prat,13.00,0,{Aerolineas-120,LATAM-200,}
+Ezeiza,Benitez,11.00,0,{United Airlines-120,Delta-80,}
+Ezeiza,Pucon,12.00,0,{United Airlines-120,}
+Ezeiza,Calafate,20.00,1,{Aerolineas-120,}
+Calafate,El prat,12.00,0,{United Airlines-146,}
+Calafate,Kennedy,10.00,0,{United Airlines-146,}
+Calafate,Logan,10.00,0,{United Airlines-146,}
+Logan,Kennedy,30.00,1,{United Airlines-146,LATAM-120,}
+Benitez,El prat,11.00,0,{United Airlines-120,Delta-80,}
+Pucon,Kennedy,23.00,0,{Aerolineas-120,LATAM-200,}
+Logan,Pucon,10.00,0,{Aerolineas-120,LATAM-200,}
+Pucon,Benitez,23.00,0,{Aerolineas-120,LATAM-200,}
+Benitez,Kennedy,11.00,0,{United Airlines-120,Delta-80,}
+Calafate,Benitez,1.00,0,{United Airlines-120,Delta-80,}

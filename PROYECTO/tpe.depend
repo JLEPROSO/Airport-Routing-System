@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1698817979 source:c:\users\zabaa\documents\ayda2\tpe\tpe\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Grafo.h"
+	"Aeropuerto.h"
+	"Vuelo.h"
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1698818261 c:\users\zabaa\documents\ayda2\tpe\tpe\grafo.h
+	<cassert>
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1698818098 c:\users\zabaa\documents\ayda2\tpe\tpe\include\vuelo.h
+	<iostream>
+	<string>
+
+1698818146 c:\users\zabaa\documents\ayda2\tpe\tpe\include\aeropuerto.h
+	<iostream>
+	<string>
+	<list>
+
+1698818146 source:c:\users\zabaa\documents\ayda2\tpe\tpe\src\aeropuerto.cpp
+	"Aeropuerto.h"
+	<iostream>
+	<string>
+	<list>
+
+1698818216 source:c:\users\zabaa\documents\ayda2\tpe\tpe\src\vuelo.cpp
+	<string>
+	"Vuelo.h"
+
+1698948181 source:c:\users\jnmrt\onedrive\documents\ayda 2\tpe\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"Grafo.h"
+	"Aeropuerto.h"
+	"Vuelo.h"
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1698803860 c:\users\jnmrt\onedrive\documents\ayda 2\tpe\grafo.h
+	<cassert>
+	<list>
+	<set>
+	<map>
+	<queue>
+	<vector>
+
+1698803746 c:\users\jnmrt\onedrive\documents\ayda 2\tpe\include\aeropuerto.h
+	<iostream>
+	<string>
+	<list>
+
+1698863248 c:\users\jnmrt\onedrive\documents\ayda 2\tpe\include\vuelo.h
+	<iostream>
+	<string>
+
+1698851669 source:c:\users\jnmrt\onedrive\documents\ayda 2\tpe\src\aeropuerto.cpp
+	"Aeropuerto.h"
+	<iostream>
+	<string>
+	<list>
+
+1698863248 source:c:\users\jnmrt\onedrive\documents\ayda 2\tpe\src\vuelo.cpp
+	<string>
+	"Vuelo.h"
+

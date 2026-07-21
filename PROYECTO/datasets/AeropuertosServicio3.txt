@@ -1,0 +1,7 @@
+Ezeiza,CABA,ARG
+El prat,ASD,ESP
+Benitez,ASD,CHI
+Pucon,PUC,CHI
+Calafate,CABA,ARG
+Kennedy,ASD,USA
+Logan,ASD,USA

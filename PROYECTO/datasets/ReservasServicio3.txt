@@ -1,0 +1,4 @@
+Ezeiza,El prat,Aerolineas,20
+Ezeiza,Benitez,Delta,30
+Pucon,Kennedy,LATAM,10
+Logan,Kennedy,United Airlines,20
